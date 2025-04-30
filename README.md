@@ -45,7 +45,7 @@ Open this file in your IDE and run it directly.
 
 Screenshots
 
-(You can add screenshots of your app in action here)
+
 
 ![image](https://github.com/user-attachments/assets/20bd6731-e02d-4fef-b9eb-da95d0239273)
 
